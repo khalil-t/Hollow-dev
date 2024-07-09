@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+*.swp
+
+# Dependency directories
+/node_modules/
+/vendor/
+/packages/
+/bower_components/
+
+# Build output
+/build/
+/dist/
+/out/
+/target/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Configuration files
+.env
+*.config
+
+# Miscellaneous
+.git/
+*.bak
+*.backup
