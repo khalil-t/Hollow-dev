@@ -130,8 +130,4 @@ app.listen(3000, () => {
   console.log('Server is running at http://localhost:3000');
 });
 
-//post file nji l vc nchof
-//get ndir key w ntetster
 
-//put kifkif
-//delet kifkf delete
